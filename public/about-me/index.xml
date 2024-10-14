@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Lovkush 🔸</title>
+    <link>http://localhost:1313/about-me/</link>
+    <description>Recent content in About on Lovkush 🔸</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/about-me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/about-me/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/teaching/</guid>
+      <description>&lt;h2 id=&#34;recommended-resources&#34;&gt;Recommended resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://repository.lboro.ac.uk/articles/Tilting_the_classroom/9368834%22&#34;&gt;Tilting the classroom&lt;/a&gt;, by Lara Alcock.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is a fantastic article and a must read for all lecturers. Lara Alcock describes 12 simple suggestions on how to make a lecture more active and engaging. This contains buckets loads of wisdom and is easy to read.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/8846/1/Alcock_Simpson_book.pdf%22&#34;&gt;Ideas from Mathematics Education&lt;/a&gt;, by Lara Alcock and Adrian Simpson.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is another fantastic resource and again is a must read, but only for mathematics lecturers. They describe in detail three mathematical ideas that almost all mathematicians take for granted, but which the majority of students lack. They define the ideas, present evidence that shows students lack of understanding of them and provide suggestions on how to improve your students&amp;rsquo; understanding. This resource is quite long, however, it is exceedingly easy to read. I recommended it to a friend and they responded with a one-line email: &amp;ldquo;I agree, it&amp;rsquo;s extremely good.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://www.amazon.co.uk/How-Wish-Taught-Maths-conversations/dp/1911382497%22&#34;&gt;How I Wish I&amp;rsquo;d Taught Maths&lt;/a&gt;, by Craig Barton.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I have only read a small part of this book, but I am already enamoured by it. Craig Barton thinks and explains his thoughts clearly, and there is a huge amount of knowledge, experience and wisdom packed into this book. The one downside of the book is that it is so comprehensive that it will take me some effort to digest the information in it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

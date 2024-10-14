@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Lovkush 🔸</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Lovkush 🔸</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from AISI, OpenAI, and The Future Society</title>
+      <link>http://localhost:1313/posts/ai-safety-networking-001/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-safety-networking-001/</guid>
+      <description>&lt;p&gt;This is a linkpost to &lt;a href=&#34;https://lovkush.substack.com/p/insights-from-aisi-openai-and-the&#34;&gt;my substack post&lt;/a&gt; summarising my time at an AI Safety networking event, with a discussion panel with people from AISI, OpenAI and The Future Society.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating this new website</title>
+      <link>http://localhost:1313/posts/new-website/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-website/</guid>
+      <description>&lt;p&gt;This post explains the steps I took to create this new website.&lt;/p&gt;&#xA;&lt;p&gt;Resources used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://swe-to-mle.pages.dev/posts/learn-in-public/&#34;&gt;https://swe-to-mle.pages.dev/posts/learn-in-public/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gokarna-hugo.netlify.app/posts/theme-documentation-basics&#34;&gt;https://gokarna-hugo.netlify.app/posts/theme-documentation-basics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Steps&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Set up hugo and the theme&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;brew install hugo&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo new site website&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;git submodule add https://github.com/526avijitgupta/gokarna.git themes/gokarna&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copy the example config file from gokarna docs into &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create blogpost&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo new posts/new-website/index.md&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Then write this blogpost! This is done in parallel with the remaining steps.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Test locally&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo serve&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;open http://localhost:1313&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Push to GitHub&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lovkush 🔸</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Lovkush 🔸</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Insights from AISI, OpenAI, and The Future Society</title>
+      <link>http://localhost:1313/posts/ai-safety-networking-001/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/ai-safety-networking-001/</guid>
+      <description>&lt;p&gt;This is a linkpost to &lt;a href=&#34;https://lovkush.substack.com/p/insights-from-aisi-openai-and-the&#34;&gt;my substack post&lt;/a&gt; summarising my time at an AI Safety networking event, with a discussion panel with people from AISI, OpenAI and The Future Society.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating this new website</title>
+      <link>http://localhost:1313/posts/new-website/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-website/</guid>
+      <description>&lt;p&gt;This post explains the steps I took to create this new website.&lt;/p&gt;&#xA;&lt;p&gt;Resources used:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://swe-to-mle.pages.dev/posts/learn-in-public/&#34;&gt;https://swe-to-mle.pages.dev/posts/learn-in-public/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://gokarna-hugo.netlify.app/posts/theme-documentation-basics&#34;&gt;https://gokarna-hugo.netlify.app/posts/theme-documentation-basics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Steps&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Set up hugo and the theme&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;brew install hugo&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo new site website&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;git submodule add https://github.com/526avijitgupta/gokarna.git themes/gokarna&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Copy the example config file from gokarna docs into &lt;code&gt;hugo.toml&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Create blogpost&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo new posts/new-website/index.md&lt;/code&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Then write this blogpost! This is done in parallel with the remaining steps.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Test locally&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;hugo serve&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;open http://localhost:1313&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Push to GitHub&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/about-me/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about-me/teaching/</guid>
+      <description>&lt;h2 id=&#34;recommended-resources&#34;&gt;Recommended resources&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://repository.lboro.ac.uk/articles/Tilting_the_classroom/9368834%22&#34;&gt;Tilting the classroom&lt;/a&gt;, by Lara Alcock.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is a fantastic article and a must read for all lecturers. Lara Alcock describes 12 simple suggestions on how to make a lecture more active and engaging. This contains buckets loads of wisdom and is easy to read.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://dspace.lboro.ac.uk/dspace-jspui/bitstream/2134/8846/1/Alcock_Simpson_book.pdf%22&#34;&gt;Ideas from Mathematics Education&lt;/a&gt;, by Lara Alcock and Adrian Simpson.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;This is another fantastic resource and again is a must read, but only for mathematics lecturers. They describe in detail three mathematical ideas that almost all mathematicians take for granted, but which the majority of students lack. They define the ideas, present evidence that shows students lack of understanding of them and provide suggestions on how to improve your students&amp;rsquo; understanding. This resource is quite long, however, it is exceedingly easy to read. I recommended it to a friend and they responded with a one-line email: &amp;ldquo;I agree, it&amp;rsquo;s extremely good.&amp;rdquo;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;%22https://www.amazon.co.uk/How-Wish-Taught-Maths-conversations/dp/1911382497%22&#34;&gt;How I Wish I&amp;rsquo;d Taught Maths&lt;/a&gt;, by Craig Barton.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;I have only read a small part of this book, but I am already enamoured by it. Craig Barton thinks and explains his thoughts clearly, and there is a huge amount of knowledge, experience and wisdom packed into this book. The one downside of the book is that it is so comprehensive that it will take me some effort to digest the information in it.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>
