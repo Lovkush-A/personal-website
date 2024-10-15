@@ -58,3 +58,4 @@ enableGitInfo = true
     {name = "linkedin", url = "https://www.linkedin.com/in/lovkush-agarwal-%F0%9F%94%B8-481737131/"},
   ]
   metaKeywords = ["blog", "lovkush", "Lovkush", "agarwal", "Agarwal", "ai safety", "teaching", "ai"]
+  customHeadHTML = "<script type='module' src='https://js.withorbit.com/orbit-web-component.js'></script>"
