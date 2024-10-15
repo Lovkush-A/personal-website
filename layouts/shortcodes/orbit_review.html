@@ -1,0 +1,21 @@
+{{ $color := .Get "color" | default "purple" }}
+<orbit-reviewarea color="{{ $color }}">
+  {{- $content := .Inner | strings.TrimRight "\n" -}}
+  {{- $lines := split $content "\n" -}}
+  {{- $currentQuestion := "" -}}
+  {{- range $lines -}}
+    {{- $line := trim . " *" -}}
+    {{- if ne $line "" -}}
+      {{- if eq $currentQuestion "" -}}
+        {{- $currentQuestion = $line -}}
+      {{- else -}}
+        <orbit-prompt question="{{ $currentQuestion }}" answer="{{ $line }}"></orbit-prompt>
+        {{- $currentQuestion = "" -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* Handle case where last line was a question */ -}}
+  {{- if ne $currentQuestion "" -}}
+    <orbit-prompt question="{{ $currentQuestion }}" answer=""></orbit-prompt>
+  {{- end -}}
+</orbit-reviewarea>
