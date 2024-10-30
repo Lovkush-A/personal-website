@@ -75,7 +75,7 @@ An example where logits should *not* be interpreted as a probability distributio
 Instead, it is better to think of the logits as (the log odds of) how much *weight* each token is putting on the other tokens.
 There are no probabilities here and everything is deterministic.
 
-## Benefits of using log odds
+## Benefits of using log odds over raw probabilities
 
 I know two main benefits. If you know others, please share!
 
@@ -99,7 +99,7 @@ Softmax is the function that converts the log odds to probabilities.
 Note:
 - For Q1, the aim is to answer using intuitive reasoning without having to do calculations / explicit algebra.
 - I do not give answers.
-It is a vital (and uncommon) skill to be able to check your own understanding without having to rely on a random internet stranger to tell you if you are right or wrong.
+It is a vital (and uncommon) skill to be able to check your own understanding without having to rely on an internet stranger to tell you if you are right or wrong.
 
 The exercises:
 1. Suppose we have some log odds $1:1:1:3:4$.
