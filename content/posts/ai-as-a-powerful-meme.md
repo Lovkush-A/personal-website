@@ -1,9 +1,9 @@
 ---
-date: 2024-10-24
-lastmod: 2024-10-24
+date: 2024-10-30
+lastmod: 2024-10-30
 showTableOfContents: false
 tags: ["ai safety", "substack", "lesswrong"]
-title: "As as a powerful meme, via CGP Grey"
+title: "AI as a powerful meme, via CGP Grey"
 type: "post"
 ---
 This is a linkpost to my [substack post](https://lovkush.substack.com/p/ai-as-a-powerful-meme) or [LessWrong post](https://www.lesswrong.com/posts/PSL88nJjMghpMNTfe/ai-as-a-powerful-meme-via-cgp-grey).
