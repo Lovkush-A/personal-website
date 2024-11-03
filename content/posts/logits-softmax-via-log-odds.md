@@ -68,8 +68,8 @@ You first exponentiate everything to get odds, then divide by the sum of all the
 This means that the next time you see the outputs of a (classification) model, you can think of them as log odds.
 In particular, you can interpret the numbers by remembering that the difference between the log odds tells you the relative ratio of the probabilities, e.g. a difference of $1$ means that the model is predicting one class as roughly $2.7$ times more likely than another.
 
-An important detail to keep in mind is that in order for this interpretation of logits as log odds to be valid, the training of the model must be done in a way that the outputs are calibrated to be probabilities.
-(This is big benefit of using cross entropy loss.)
+An important detail to keep in mind is that in order for this interpretation of logits as log odds to be valid, the training of the model must be done in a way so that the outputs are calibrated to be probabilities.
+(This is a big benefit of using cross entropy loss.)
 
 An example where logits should *not* be interpreted as a probability distribution is in the attention mechanism of transformers.
 Instead, it is better to think of the logits as (the log odds of) how much *weight* each token is putting on the other tokens.
