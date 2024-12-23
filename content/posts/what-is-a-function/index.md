@@ -46,12 +46,12 @@ In particular, they occur in neural networks.
 I will illustrate with an example.
 
 **Example**
-- $f$ has three inputs, $x_1, x_2, x_3$, multiplies them by $3, 1, 4$ respectively, and adds them together.
+- $f$ has three inputs $x_1, x_2, x_3$, multiplies them by $3, 1, 4$ respectively, and adds them together.
 - So $f(1, 2, 3) = (3 \times 1) + (1 \times 2) + (4 \times 3) = 17$.
 
 In the context of machine learning, the numbers $3, 1, 4$ are called the weights or parameters of the function.
 
-Also in the context of neural networks, this calculation is often represented in the following diagram:
+Also in the context of neural networks, this calculation is represented in the following diagram:
 
 ![A diagram of the function $f$ with inputs $1,2,3$](dot_product_example.png)
 
@@ -65,7 +65,7 @@ Hence, the convention is to just hide the output with the understanding we multi
 
 ![A diagram of the function $f$ with inputs $x_1, x_2, x_3$, with cleaned output](dot_product_generic_clean.png)
 
-In this context, the circles and the numbers inside them are called neurons or nodes.
+In context of neural networks, the circles and the numbers inside them are called neurons or nodes.
 
 {{<orbit_review>}}
 In the diagram, what is the name of numbers above the arrows?
