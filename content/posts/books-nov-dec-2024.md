@@ -1,6 +1,6 @@
 ---
-date: 2024-01-03
-lastmod: 2024-01-03
+date: 2025-01-03
+lastmod: 2025-01-03
 showTableOfContents: false
 tags: ["substack", "books", "linkpost"]
 title: "Books I Read in Nov and Dec 2024"
