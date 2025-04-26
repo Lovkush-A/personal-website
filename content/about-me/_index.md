@@ -3,11 +3,13 @@ title: "About"
 type: page
 ---
 
-I am an aspiring AI Safety Researcher, having previously been a mathematician, lecturer and data scientist.
+I am an aspiring AI Safety Researcher, having previously been a mathematician, lecturer and data scientist. You can find my [CV here](/about-me/cv.pdf).
 
-Currently I am upskilling while also doing fieldbuilding with two organisations:
-- [ML4Good](https://www.ml4good.org/). I lead the most recent camp, and will continue to iterate and lead future camps.
-- [BlueDot](https://bluedot.org/). I am a teaching fellow for the final cohort of 2024, which means that I will be facilitating weekly discussion for several groups and providing constructive feedback for how to improve the course.
+Currently I am upskilling by taking part in various AI Safety initiatives. Some highlights:
+- [ML4Good](https://www.ml4good.org/). I attended in March 2024, then TA'd in UK September 2024 then was the teaching lead in Germany September 2024.
+- [BlueDot](https://bluedot.org/). I was a teaching fellow for the final cohort of 2024, which means that I facilitated weekly discussion for several groups.
+- [AI Safety Camp](https://www.aisafety.camp/). I lead a project in the 2025 iteration of the camp, from Jan to April 2025.
+- [ARENA](https://www.arena.education/). I am a participant in ARENA 5.0, the 2025 May cohort.
 
 For further details on my background:
 
