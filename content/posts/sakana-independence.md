@@ -1,6 +1,6 @@
 ---
-date: 2024-04-09
-lastmod: 2024-04-09
+date: 2025-04-09
+lastmod: 2025-04-09
 showTableOfContents: false
 tags: ["ai", "linkpost", "news"]
 title: "Are Sakana lying about the independence on code templates?"
