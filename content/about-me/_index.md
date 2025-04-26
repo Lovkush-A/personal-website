@@ -11,4 +11,4 @@ Currently I am upskilling while also doing fieldbuilding with two organisations:
 
 For further details on my background:
 
-- [Teaching](/about-me/teaching/)
+- [Teaching](/about-me/teaching/). Recommended resources for teaching, slides to talks I gave, list of conferences and events I attended, list of teaching experiences.
